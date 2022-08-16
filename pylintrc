@@ -1,0 +1,14 @@
+[MASTER]
+disable=
+     missing-docstring,
+
+[DESIGN]
+
+# Maximum number of arguments for function / method
+max-args=3
+
+# Maximum number of branch for function / method body
+max-branches=1
+
+# Minimum number of public methods for a class (see R0903).
+min-public-methods=1
